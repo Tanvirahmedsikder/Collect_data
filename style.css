@@ -10,7 +10,7 @@ body{
   justify-content:center;
   width:100%;
   height:100vh;
-  background:url("/updated_login_page_background.jpg");
+  background:url("updated_login_page_background.jpg");
   background-repeat:no-repeat;
   background-attachment: fixed;
   background-size:cover;
